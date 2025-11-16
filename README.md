@@ -38,18 +38,3 @@ pip install websockets
 ```bash
 python test.py
 ```
-
-## Credits
-
-This project was built by:
-- [Leon Binder](https://github.com/LeonBinder)
-- [Christoph Handschuh](https://github.com/ChristophHandschuh)
-
-Additional contribution by:
-- [CameliaK](https://github.com/CameliaK) – Implemented web search and integrated it into the LLM prompt
-
-Some code components were inspired by and adapted from [Vercel's AI Chatbot](https://github.com/vercel/ai-chatbot).
-
-## License
-
-This project is licensed under the Apache License 2.0. Please note that some components were adapted from Vercel's open source AI Chatbot project.

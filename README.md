@@ -2,11 +2,6 @@
 
 A lightweight and modern chat interface for LLM interactions with Markdown support!
 
-👉 Looking for a version with web search integration?   
-Check out the [`websearch_template`](https://github.com/ChristophHandschuh/chatbot-ui/tree/websearch_template) branch, which includes contributions from [CameliaK](https://github.com/CameliaK)
-
-WebSocket connection refactured by [GBG7](https://github.com/GBG7)
-
 ## Overview
 
 A minimalist chat interface built with React and TypeScript, designed to be easily integrated with any LLM backend. Features a clean and modern design.
@@ -15,18 +10,12 @@ A minimalist chat interface built with React and TypeScript, designed to be easi
 
 ## Getting Started
 
-1. Clone the repository
-```bash
-git clone https://github.com/ChristophHandschuh/chatbot-ui.git
-cd chatbot-ui
-```
-
-2. Install dependencies
+1. Install dependencies
 ```bash
 npm i
 ```
 
-3. Start the development server
+2Start the development server
 ```bash
 npm run dev
 ```
